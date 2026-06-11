@@ -1,4 +1,4 @@
-<!-- midnight signal v3 · girishmanne6 -->
+<!-- midnight signal v4 · girishmanne6 -->
 
 <div align="center">
 
@@ -12,43 +12,44 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-7c3aed?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/focus-production%20AI-000000?style=for-the-badge&labelColor=12001e"/>
-<img src="https://img.shields.io/badge/location-san%20jose-000000?style=for-the-badge&labelColor=12001e"/>
+<img src="https://img.shields.io/badge/open%20to%20work-true-7c3aed?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/focus-production%20AI-2d0055?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/location-san%20jose-4c1d95?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/girishmanne"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/></a>
+<a href="https://www.linkedin.com/in/girish-manne-555978255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:girishmanne6@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c4b5fd"/></a>
+<a href="mailto:girishmanne6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/Girishmanne6/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=react&logoColor=8b5cf6"/></a>
+<a href="https://github.com/Girishmanne6/Portfolio"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&section=header&text=&reversal=true" width="100%"/>
-
-<div align="center">
-
-### impact signals
-
-<img src="https://img.shields.io/badge/65%25%20lower-latency%20on%20voice%20AI-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed"/>
-&nbsp;
-<img src="https://img.shields.io/badge/27s%20%E2%86%92%208.5s-codebase%20query%20time-000000?style=for-the-badge&labelColor=1a0033&color=9333ea"/>
-&nbsp;
-<img src="https://img.shields.io/badge/18%E2%80%9327pp-accuracy%20under%20drift-000000?style=for-the-badge&labelColor=1a0033&color=6d28d9"/>
-
-<sub>measured in production, not promises</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4c1d95&height=2&section=header&text=&reversal=true" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=55&section=footer&text=who&fontSize=18&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=impact%20signals&fontSize=16&fontColor=a78bfa" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/voice%20AI%20latency-65%25%20lower-7c3aed?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/codebase%20queries-27s%20to%208.5s-9333ea?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/drift%20recovery-%2B18%20to%2027pp-6d28d9?style=for-the-badge"/>
+
+<br/>
+<sub>measured in production, not promises</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=about&fontSize=16&fontColor=a78bfa" width="100%"/>
 
 </div>
 
@@ -56,7 +57,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ```yaml
 name:     Girish Chowdary Manne
@@ -67,16 +68,16 @@ based:    San Jose, CA
 
 MS AI student building **end-to-end systems** — multi-agent RAG, real-time voice tutors, ML monitoring that catches drift before users notice.
 
-**Now:** Graduate Research Assistant @ AIWorkforce EdTech — voice AI deployed to K-12 students across 2 schools.
+**Now** → Graduate Research Assistant @ AIWorkforce EdTech — voice AI in K-12 classrooms across 2 schools
 
-**Before:** Edge ML optimization (**3×** smaller, **40%** faster) · analytics driving **10%** retention lift.
+**Before** → Edge ML (**3×** smaller, **40%** faster) · analytics with **10%** retention lift
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Girishmanne6&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=percentile&hide=issues" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Girishmanne6&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=percentile&hide=issues" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmanne6&theme=transparent&hide_border=true&background=00000000&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmanne6&theme=radical&hide_border=true&background=000000&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" height="175"/>
 
 </td>
 </tr>
@@ -86,104 +87,115 @@ MS AI student building **end-to-end systems** — multi-agent RAG, real-time voi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=55&section=footer&text=selected%20work&fontSize=18&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=featured%20work&fontSize=16&fontColor=a78bfa" width="100%"/>
 
 </div>
 
 <br/>
 
+<!-- WhyCode -->
 <details open>
-<summary>
-  <img src="https://img.shields.io/badge/WhyCode-multi--agent%20codebase%20intelligence-1a0033?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-LangGraph-RAG-2d0055?style=flat-square"/>
-</summary>
+<summary><strong>WhyCode</strong> &nbsp;·&nbsp; multi-agent codebase intelligence</summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=0:000000,100:1a0033&section=header&text=&reversal=true" width="100%"/>
+`Python` &nbsp; `LangGraph` &nbsp; `RAG` &nbsp; `ChromaDB` &nbsp; `NetworkX`
 
-Parses entire GitHub repos into **1,100+ embeddings** across 4 ChromaDB collections.
+<br/><br/>
 
-Four agents — **Explainer · Impact · Memory · Reviewer** — hybrid retrieval over NetworkX graphs + semantic search + LLM reasoning.
+Parses entire GitHub repos into **1,100+ embeddings** across 4 ChromaDB collections. Four agents — **Explainer · Impact · Memory · Reviewer** — run hybrid retrieval over dependency graphs + semantic search + LLM reasoning.
 
-<img src="https://img.shields.io/badge/27s%20%E2%86%92%208.5s-query%20latency-7c3aed?style=flat-square&labelColor=000000"/>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/query%20latency-27s%20to%208.5s-7c3aed?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/embeddings-1100%2B-2d0055?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/agents-4-4c1d95?style=flat-square"/>
 
-[![explore](https://img.shields.io/badge/explore%20%E2%86%92-whycode-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed)](https://github.com/Girishmanne6/whycode)
+<br/><br/>
+
+[![view repo](https://img.shields.io/badge/view%20repo-whycode-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmanne6/whycode)
 
 </details>
 
 <br/>
 
+<!-- DriftShield -->
 <details open>
-<summary>
-  <img src="https://img.shields.io/badge/DriftShield-real--time%20ML%20monitoring-1a0033?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-CV-WebSockets-2d0055?style=flat-square"/>
-</summary>
+<summary><strong>DriftShield</strong> &nbsp;·&nbsp; real-time ML drift monitoring</summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=0:000000,100:1a0033&section=header&text=&reversal=true" width="100%"/>
+`Python` &nbsp; `Computer Vision` &nbsp; `WebSockets` &nbsp; `MLOps`
 
-Concept & data drift detection — KS test, PSI, rolling accuracy, live WebSocket alerts.
+<br/><br/>
 
-**TENT** implemented from scratch (ICLR 2021) — BatchNorm-only adaptation via entropy minimization.
+Concept & data drift detection — KS test, PSI, rolling accuracy, live WebSocket alerts. **TENT** implemented from scratch (ICLR 2021) with BatchNorm-only entropy minimization.
 
-<img src="https://img.shields.io/badge/%2B18%E2%80%9327pp-accuracy%20recovered%20under%20drift-7c3aed?style=flat-square&labelColor=000000"/>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/accuracy%20recovered-%2B18%20to%2027pp-7c3aed?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/alerts-real--time-2d0055?style=flat-square"/>
 
-[![explore](https://img.shields.io/badge/explore%20%E2%86%92-driftshield-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed)](https://github.com/Girishmanne6/DriftShield)
+<br/><br/>
+
+[![view repo](https://img.shields.io/badge/view%20repo-driftshield-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmanne6/DriftShield)
 
 </details>
 
 <br/>
 
+<!-- RankLab -->
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/RankLab-responsible%20recommendation-1a0033?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-LightGCN-RecSys-2d0055?style=flat-square"/>
-</summary>
+<summary><strong>RankLab</strong> &nbsp;·&nbsp; responsible news recommendation</summary>
 <br/>
 
-50K-user EB-NeRD subset (RecSys 2024). LightGCN + XSimGCL contrastive regularization — less popularity bias, more long-tail exposure.
+`Python` &nbsp; `LightGCN` &nbsp; `RecSys` &nbsp; `A/B Testing`
 
-Live A/B dashboard: Recall@10 · NDCG · diversity · p95 latency.
+<br/><br/>
 
-<br/>
+50K-user EB-NeRD subset (RecSys 2024). LightGCN + XSimGCL contrastive regularization — less popularity bias, more long-tail exposure. Live dashboard tracks Recall@10, NDCG, diversity, p95 latency.
 
-[![explore](https://img.shields.io/badge/explore%20%E2%86%92-ranklab-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed)](https://github.com/Girishmanne6/RankLab)
+<br/><br/>
+
+[![view repo](https://img.shields.io/badge/view%20repo-ranklab-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmanne6/RankLab)
 
 </details>
 
 <br/>
 
+<!-- shift-left -->
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/shift--left--compliance-policy%20as%20code-1a0033?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/OPA-DevSecOps-2d0055?style=flat-square"/>
-</summary>
+<summary><strong>shift-left-compliance</strong> &nbsp;·&nbsp; policy-as-code</summary>
 <br/>
 
-Compliance validation embedded in the dev workflow — catch policy violations before prod.
+`Open Policy Agent` &nbsp; `DevSecOps`
 
-<br/>
+<br/><br/>
 
-[![explore](https://img.shields.io/badge/explore%20%E2%86%92-shift--left--compliance-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed)](https://github.com/Girishmanne6/shift-left-compliance)
+Compliance validation embedded in the dev workflow — catch policy violations before they reach production.
+
+<br/><br/>
+
+[![view repo](https://img.shields.io/badge/view%20repo-shift--left--compliance-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmanne6/shift-left-compliance)
 
 </details>
 
 <br/>
 
+<!-- more -->
 <details>
-<summary><b>+ more projects</b></summary>
+<summary><strong>more projects</strong></summary>
 <br/>
 
-| | Project | Focus |
-|:---:|:--|:--|
-| ◈ | [Curbrules](https://github.com/Girishmanne6/Curbrules) | Intelligent rules engine |
-| ◈ | [Truthseeker](https://github.com/Girishmanne6/Truthseeker) | Research & verification UI |
-| ◈ | [Portfolio](https://github.com/Girishmanne6/Portfolio) | Personal site · TypeScript |
-| ◈ | [Sukhibava-Medical-Chatbot](https://github.com/Girishmanne6/Sukhibava-Medical-Chatbot) | Medical AI chatbot |
+| Project | What it does |
+|:--|:--|
+| [**Curbrules**](https://github.com/Girishmanne6/Curbrules) | Intelligent rules engine |
+| [**Truthseeker**](https://github.com/Girishmanne6/Truthseeker) | Research & verification UI |
+| [**Portfolio**](https://github.com/Girishmanne6/Portfolio) | Personal site · TypeScript |
+| [**Sukhibava-Medical-Chatbot**](https://github.com/Girishmanne6/Sukhibava-Medical-Chatbot) | Medical AI chatbot |
+| [**compliance-agent**](https://github.com/Girishmanne6/compliance-agent) | AI compliance automation |
+| [**tomasulo-simulator**](https://github.com/Girishmanne6/tomasulo-simulator) | CPU pipeline simulator |
 
 </details>
 
@@ -191,17 +203,13 @@ Compliance validation embedded in the dev workflow — catch policy violations b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=55&section=footer&text=credentials%20%26%20stack&fontSize=18&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=credentials%20%26%20stack&fontSize=16&fontColor=a78bfa" width="100%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Hackathon-2nd%20%2F%2050%2B%20teams-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed"/>
-<img src="https://img.shields.io/badge/ICON--DEEPCOM%202025-Conference%20Presenter-000000?style=for-the-badge&labelColor=1a0033&color=6d28d9"/>
-<img src="https://img.shields.io/badge/E--Cell%20VIT-Design%20Lead-000000?style=for-the-badge&labelColor=1a0033&color=5b21b6"/>
+<img src="https://img.shields.io/badge/Google%20Hackathon-2nd%20of%2050%2B%20teams-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ICON--DEEPCOM%202025-presenter-6d28d9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E--Cell%20VIT-design%20lead-5b21b6?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -209,12 +217,12 @@ Compliance validation embedded in the dev workflow — catch policy violations b
 
 <br/><br/>
 
-```
-AI/ML     PyTorch · HuggingFace · LangChain · LangGraph · RAG · LLMs · CV · NLP · MLOps
-Data      SQL · PostgreSQL · Pandas · NumPy · Feature Engineering · A/B Testing
-Backend   Python · Java · FastAPI · Docker · AWS · WebSockets · GitHub Actions
-Frontend  React · Next.js · TypeScript
-```
+| | |
+|:--|:--|
+| **AI / ML** | PyTorch · HuggingFace · LangChain · LangGraph · RAG · LLMs · CV · NLP · MLOps |
+| **Data** | SQL · PostgreSQL · Pandas · NumPy · Feature Engineering · A/B Testing |
+| **Backend** | Python · Java · FastAPI · Docker · AWS · WebSockets · GitHub Actions |
+| **Frontend** | React · Next.js · TypeScript |
 
 </div>
 
@@ -222,7 +230,7 @@ Frontend  React · Next.js · TypeScript
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=55&section=footer&text=activity&fontSize=18&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=activity&fontSize=16&fontColor=a78bfa" width="100%"/>
 
 <br/><br/>
 
@@ -234,18 +242,17 @@ Frontend  React · Next.js · TypeScript
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=55&section=footer&text=connect&fontSize=18&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:12001e&height=50&section=footer&text=connect&fontSize=16&fontColor=a78bfa" width="100%"/>
 
 <br/><br/>
 
-```
-intent  →  internship · research · collab
-reach   →  girishmanne6@gmail.com
-```
+<a href="mailto:girishmanne6@gmail.com"><img src="https://img.shields.io/badge/email-girishmanne6@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/girish-manne-555978255/"><img src="https://img.shields.io/badge/linkedin-girish--manne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=90&section=footer&text=systems%20that%20think%20in%20layers&fontSize=14&fontColor=6d28d9&color=0:000000,100:12001e&stroke=4c1d95" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=85&section=footer&text=systems%20that%20think%20in%20layers&fontSize=14&fontColor=6d28d9&color=0:000000,100:12001e&stroke=4c1d95" width="100%"/>
 
 <br/>
 
