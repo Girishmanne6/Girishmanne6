@@ -1,218 +1,181 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GIRISHMANNE6 · GITHUB PROFILE README
-     Repo: github.com/Girishmanne6/Girishmanne6
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- midnight signal · girishmanne6 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=280&section=header&text=GIRISH%20MANNE&fontSize=52&fontColor=c9d1d9&color=0:000000,40:0a0014,100:1a0033&desc=production%20AI%20%C2%B7%20multi-agent%20systems%20%C2%B7%20san%20jose&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=280&section=header&text=GIRISH%20MANNE&fontSize=52&fontColor=1a1a2e&color=0:f5f5f5,100:e8e8f0&desc=production%20AI%20%C2%B7%20multi-agent%20systems%20%C2%B7%20san%20jose&descSize=14&descAlignY=72&descAlign=50" width="100%"/>
+</picture>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=GIRISH%20MANNE&fontSize=46&fontColor=e6edf3&color=0:0d1117,50:1a1033,100:6e40c9&stroke=00d4aa" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&width=620&lines=MS+AI+%40+SJSU+%C2%B7+GPA+3.8;Multi-agent+systems+%26+production+LLM+pipelines;From+voice+tutors+to+drift+detection;Seeking+AI%2FML+internship+%C2%B7+San+Jose%2C+CA" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+AI+that+ships+to+real+users+—+not+just+notebooks.;Voice+tutors+in+K-12+classrooms.+Drift+detection+in+production.;4-agent+codebase+intelligence.+27s+%E2%86%92+8.5s+query+latency.;Open+to+AI%2FML+roles+%C2%B7+MS+AI+%40+SJSU" alt="typing"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/girishmanne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:girishmanne6@gmail.com"><img src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=00D4AA"/></a>
-<a href="https://github.com/Girishmanne6/Portfolio"><img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-7c3aed?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FOCUS-PRODUCTION_AI-000000?style=flat-square&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/LOCATION-SAN_JOSE-000000?style=flat-square&labelColor=1a0033"/>
 
-<img src="https://komarev.com/ghpvc/?username=Girishmanne6&label=profile%20views&color=6e40c9&style=flat-square" alt="profile views"/>
+<br/><br/>
+
+<a href="https://linkedin.com/in/girishmanne"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=8b5cf6"/></a>
+<a href="mailto:girishmanne6@gmail.com"><img src="https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a78bfa"/></a>
+<a href="https://github.com/Girishmanne6/Portfolio"><img src="https://img.shields.io/badge/portfolio-0a0a0a?style=for-the-badge&logo=react&logoColor=c4b5fd"/></a>
 
 </div>
 
----
+<br/>
 
-## `> system.boot — operator manual`
-
-```diff
-+ IDENTITY     :: Girish Chowdary Manne
-+ LOCATION     :: San Jose, CA
-+ STATUS       :: MS Artificial Intelligence @ San Jose State University
-+ FOCUS        :: Production AI — agents, RAG, MLOps, real-time systems
-+ AVAILABILITY :: Open to AI/ML internships
 ```
+╔══════════════════════════════════════════════════════════════════╗
+║  IMPACT SIGNALS  ·  measured in production, not promises         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/▸_65%25-lower_voice_AI_latency-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed"/> | <img src="https://img.shields.io/badge/▸_27s→8.5s-codebase_query_time-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed"/> | <img src="https://img.shields.io/badge/▸_18–27pp-accuracy_recovered_under_drift-000000?style=for-the-badge&labelColor=1a0033&color=7c3aed"/> |
+
+</div>
 
 <br/>
 
-> *This profile runs on a multi-agent layout — the same mental model behind [WhyCode](https://github.com/Girishmanne6/whycode).*
-> *Four agents. Four jobs. No filler.*
+## ◈ who
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `// AGENT_01 · EXPLAINER`
-
-```python
-class Girish:
-    role = "AI Engineer & Researcher"
-    campus = "SJSU · MS AI · GPA 3.8"
-    prior  = "B.Tech CSE · VIT Chennai"
-
-    def builds(self):
-        return [
-            "multi-agent codebase intelligence",
-            "real-time voice AI tutors",
-            "ML drift monitoring pipelines",
-            "responsible recommendation systems",
-        ]
+```yaml
+name:     Girish Chowdary Manne
+role:     AI Engineer · Researcher
+studying: MS Artificial Intelligence @ San Jose State University
+based:    San Jose, CA
 ```
 
-Graduate Research Assistant at **AIWorkforce EdTech (SJSU)** — shipping voice AI to K-12 classrooms, cutting perceived latency **65%**, and hitting **90%** clarity ratings in student evals.
+MS AI student who builds **end-to-end systems** — from multi-agent RAG pipelines and real-time voice tutors to ML monitoring that catches drift before users notice.
 
-Previously: ML intern optimizing edge face-detection (**3×** smaller, **40%** faster inference) · Data analytics intern driving **10%** retention lift.
+Currently **Graduate Research Assistant** at AIWorkforce EdTech (SJSU), deploying voice AI to K-12 students across 2 schools. Previously optimized edge ML models (**3×** smaller, **40%** faster) and drove **10%** retention lift through data analytics.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### `// AGENT_02 · MEMORY`
+## ◈ selected work
+
+<!-- case files — impact first, architecture second -->
+
+<details open>
+<summary><b>WhyCode</b> &nbsp;·&nbsp; multi-agent codebase intelligence &nbsp;·&nbsp; <code>Python · LangGraph · RAG</code></summary>
+<br/>
+
+Parses entire GitHub repos into **1,100+ embeddings** across 4 ChromaDB collections. Four specialized agents — Explainer, Impact, Memory, Reviewer — run hybrid retrieval over NetworkX dependency graphs + semantic search + LLM reasoning.
+
+**`27s → 8.5s`** query latency via parallel retrieval, LRU caching, streaming UI.
+
+[![repo](https://img.shields.io/badge/→_explore_the_system-1a0033?style=flat-square)](https://github.com/Girishmanne6/whycode)
+
+</details>
+
+<details open>
+<summary><b>DriftShield</b> &nbsp;·&nbsp; real-time ML drift monitoring &nbsp;·&nbsp; <code>Python · CV · WebSockets</code></summary>
+<br/>
+
+Production monitoring for concept & data drift — KS test, PSI, rolling accuracy, live WebSocket alerts. Implemented **TENT** from scratch (ICLR 2021); adapts only BatchNorm params via entropy minimization.
+
+**`+18–27pp`** accuracy recovered under synthetic domain shift.
+
+[![repo](https://img.shields.io/badge/→_explore_the_system-1a0033?style=flat-square)](https://github.com/Girishmanne6/DriftShield)
+
+</details>
+
+<details>
+<summary><b>RankLab</b> &nbsp;·&nbsp; responsible news recommendation &nbsp;·&nbsp; <code>Python · LightGCN · RecSys</code></summary>
+<br/>
+
+50K-user EB-NeRD subset (RecSys 2024). LightGCN + XSimGCL contrastive regularization to cut popularity bias and boost long-tail exposure. Live A/B dashboard: Recall@10, NDCG, diversity, p95 latency.
+
+[![repo](https://img.shields.io/badge/→_explore_the_system-1a0033?style=flat-square)](https://github.com/Girishmanne6/RankLab)
+
+</details>
+
+<details>
+<summary><b>shift-left-compliance</b> &nbsp;·&nbsp; policy-as-code &nbsp;·&nbsp; <code>OPA · DevSecOps</code></summary>
+<br/>
+
+Compliance validation embedded in the dev workflow — catch policy violations before they reach prod.
+
+[![repo](https://img.shields.io/badge/→_explore_the_system-1a0033?style=flat-square)](https://github.com/Girishmanne6/shift-left-compliance)
+
+</details>
+
+<details>
+<summary><b>+ more</b> &nbsp;·&nbsp; Curbrules · Truthseeker · Portfolio · Sukhibava Medical Chatbot</summary>
+<br/>
+
+| Project | Focus |
+|:--|:--|
+| [Curbrules](https://github.com/Girishmanne6/Curbrules) | Intelligent rules engine |
+| [Truthseeker](https://github.com/Girishmanne6/Truthseeker) | Research & verification UI |
+| [Portfolio](https://github.com/Girishmanne6/Portfolio) | Personal site · TypeScript |
+| [Sukhibava-Medical-Chatbot](https://github.com/Girishmanne6/Sukhibava-Medical-Chatbot) | Medical AI chatbot |
+
+</details>
+
+<br/>
+
+## ◈ credentials
 
 ```
-ACHIEVEMENTS.LOG
-────────────────────────────────────────
-▸ Google Hackathon Finalist — 2nd / 50+ teams
-  AI LawBot · LLMs + retrieval reasoning
-
-▸ ICON-DEEPCOM 2025 — Conference presenter
-  Real-time stock market AI chatbot
-
-▸ Design Lead · Entrepreneurship Cell VIT
-  15-member team · 500+ participants
-
+▸ Google Hackathon Finalist     2nd place / 50+ teams   AI LawBot
+▸ ICON-DEEPCOM 2025             Conference presenter    Stock market AI
+▸ Design Lead · E-Cell VIT      15-person team          500+ participants
 ▸ GitHub Pull Shark
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## `> agent.deploy — featured systems`
-
-<!-- unique card layout: not the standard bullet list -->
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[WhyCode](https://github.com/Girishmanne6/whycode)** `Python`
-
-<sub>`MULTI-AGENT · RAG · LANGGRAPH`</sub>
-
-Ingests GitHub repos → **1,100+** vector embeddings across **4** specialized ChromaDB collections. **4** agents (Explainer, Impact, Memory, Reviewer) with NetworkX dependency graphs + hybrid retrieval.
-
-`27s → 8.5s` query latency
-
-</td>
-<td width="33%" valign="top">
-
-**[DriftShield](https://github.com/Girishmanne6/DriftShield)** `Python`
-
-<sub>`MLOPS · CV · REAL-TIME`</sub>
-
-ML monitoring for concept & data drift — KS test, PSI, rolling accuracy, WebSocket alerts. TENT adaptation from scratch recovers **18–27pp** accuracy under domain shift.
-
-</td>
-<td width="33%" valign="top">
-
-**[RankLab](https://github.com/Girishmanne6/RankLab)** `Python`
-
-<sub>`RECSYS · LIGHTGCN · A/B`</sub>
-
-Responsible news recs on 50K-user EB-NeRD subset. LightGCN + XSimGCL contrastive regularization. Dashboard tracks Recall@10, NDCG, diversity, p95 latency.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**[shift-left-compliance](https://github.com/Girishmanne6/shift-left-compliance)** `OPA`
-
-<sub>`POLICY-AS-CODE · DEVSECOPS`</sub>
-
-Compliance validation shifted left into the dev workflow with Open Policy Agent.
-
-</td>
-<td width="33%" valign="top">
-
-**[Curbrules](https://github.com/Girishmanne6/Curbrules)** `Python`
-
-<sub>`RULES ENGINE`</sub>
-
-Intelligent rule processing & decision logic.
-
-</td>
-<td width="33%" valign="top">
-
-**[Truthseeker](https://github.com/Girishmanne6/Truthseeker)** `HTML`
-
-<sub>`RESEARCH · UI`</sub>
-
-Investigation & truth-verification interface.
-
-</td>
-</tr>
-</table>
-
 <br/>
+
+## ◈ stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Girishmanne6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=6e40c9&text_color=e6edf3&rank_icon=percentile" height="165"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmanne6&theme=radical&hide_border=true&background=0D1117&ring=6E40C9&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=e6edf3&dates=e6edf3" height="165"/>
-
-</div>
-
----
-
-## `> agent.review — stack signature`
-
-<!-- heatmap-style skill bands instead of a flat icon grid -->
-
-| Layer | Tools |
-|:--|:--|
-| **🧠 AI / ML** | `PyTorch` `Hugging Face` `LangChain` `LangGraph` `LightGCN` `RAG` `LLMs` `Computer Vision` `NLP` `MLOps` |
-| **📊 Data** | `SQL` `PostgreSQL` `Pandas` `NumPy` `Feature Engineering` `A/B Testing` |
-| **⚙️ Backend** | `Python` `Java` `FastAPI` `Docker` `AWS` `WebSockets` `GitHub Actions` `CI/CD` |
-| **🖥️ Frontend** | `React` `Next.js` `TypeScript` |
+```
+  AI/ML        PyTorch · HuggingFace · LangChain · LangGraph · RAG · LLMs · CV · NLP · MLOps
+  Data         SQL · PostgreSQL · Pandas · NumPy · Feature Engineering · A/B Testing
+  Backend      Python · Java · FastAPI · Docker · AWS · WebSockets · GitHub Actions
+  Frontend     React · Next.js · TypeScript
+```
 
 <br/>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,react,nextjs,ts,postgres,git&perline=10&theme=dark"/>
 
 </div>
 
----
+<br/>
 
-## `> agent.impact — signal graph`
+## ◈ field activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Girishmanne6&bg_color=0d1117&color=00d4aa&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&title_color=e6edf3&custom_title=contribution%20field&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Girishmanne6&bg_color=000000&color=7c3aed&line=4c1d95&point=a78bfa&area=true&area_color=1a0033&title_color=6b7280&custom_title=%20&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## `> stdin — collaboration channel`
-
-```bash
-$ curl -X POST /connect \
-  -d "intent=internship|collab|research" \
-  -d "email=girishmanne6@gmail.com"
-
-# response: always open to interesting AI systems work
-```
+## ◈ connect
 
 <div align="center">
 
+```
+intent:  internship · research · collab
+channel: girishmanne6@gmail.com
+```
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1033&height=100&section=footer&text=building%20systems%20that%20think%20in%20layers&fontSize=16&fontColor=6e40c9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0014&height=80&section=footer&fontSize=13&fontColor=4c1d95&text=systems%20that%20think%20in%20layers"/>
 
-<sub>// end of transmission · <a href="https://github.com/Girishmanne6">@Girishmanne6</a></sub>
+<br/>
+
+<sub>// midnight signal · <a href="https://github.com/Girishmanne6">@Girishmanne6</a></sub>
+
+<img src="https://komarev.com/ghpvc/?username=Girishmanne6&label=&color=1a0033&style=flat"/>
 
 </div>
