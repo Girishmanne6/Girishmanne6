@@ -1,127 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050510,40:0d0520,70:1a0040,100:2d0060&section=header&text=GIRISH%20MANNE&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=MS%20Artificial%20Intelligence%20%C2%B7%20San%20Jose%20State%20University&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&section=header&text=Girish%20Manne&fontSize=56&fontColor=e0e7ff&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20MS%20AI%20%40%20San%20Jos%C3%A9%20State%20University&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=560&lines=building+AI+systems+that+ship+to+production;multi-agent+RAG+%C2%B7+voice+AI+%C2%B7+MLOps;Graduate+Research+Assistant+%40+SJSU;open+to+AI%2FML+internships+%E2%80%94+Summer+2026" alt="typing"/>
+<a href="https://github.com/Girishmanne6">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=I+build+AI+systems+that+actually+ship;multi-agent+RAG+%C2%B7+voice+AI+%C2%B7+MLOps;Graduate+Research+Assistant+%40+SJSU;open+to+full-time+AI%2FML+roles+from+June+2027" alt="typing intro"/>
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237c3aed.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-manne-555978255/)
-[![Gmail](https://img.shields.io/badge/Gmail-%237c3aed.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishmanne6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Girishmanne6/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-manne-555978255/)
+[![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishmanne6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmanne6/Portfolio)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0e7490&height=2&section=header" width="100%"/>
+<br/>
+
+### 👋 About me
+
+- MS in Artificial Intelligence at **San José State University**, graduating **May 2027**
+- Graduate Research Assistant on **Hey Professor**, a real-time voice AI tutor used in K-12 classrooms, where I cut response latency by **65%**
+- I like building the boring-but-hard parts of AI: retrieval, evaluation, monitoring, and making things fast enough for real users
+- **Looking for:** full-time AI/ML Engineer or Software Engineer roles starting summer 2027
 
 <br/>
 
-```python
-class GirishManne:
-    role        = "AI Engineer · Graduate Research Assistant @ SJSU"
-    focus       = ["Multi-Agent Systems", "RAG Pipelines", "MLOps", "Voice AI"]
-    shipped     = {"voice_latency": "−65%", "query_time": "27s → 8.5s", "drift_recovery": "+18–27pp"}
-    currently   = "building AI that works in real classrooms"
-    open_to     = "AI/ML internship roles — Summer 2026"
-```
-
-<br/>
-
-## ⚡ featured work
+### ⚡ Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[WhyCode](https://github.com/Girishmanne6/whycode)** &nbsp;`RAG` `LangGraph` `ChromaDB`
+**[WhyCode](https://github.com/Girishmanne6/whycode)**<br/>
+<sub>`LangGraph` `RAG` `ChromaDB`</sub>
 
-Four specialized agents over 1,100+ repo embeddings — hybrid retrieval across dependency graphs + semantic search + LLM reasoning.
+Multi-agent codebase assistant. Four specialized agents combine dependency graphs, semantic search, and PR/commit history to answer "why is this code like this?"
 
-`27s → 8.5s` query time
+**27s → 8.5s** query time
 
 </td>
 <td width="50%" valign="top">
 
-**[DriftShield](https://github.com/Girishmanne6/DriftShield)** &nbsp;`MLOps` `PyTorch` `WebSockets`
+**[DriftShield](https://github.com/Girishmanne6/DriftShield)**<br/>
+<sub>`PyTorch` `ONNX` `FastAPI` `WebSockets`</sub>
 
-KS test + PSI + rolling accuracy with live WebSocket alerts. TENT adaptation from scratch — no retraining needed.
+Real-time model monitoring. Detects concept drift with KS test, PSI, and rolling accuracy, explains predictions with Grad-CAM, and adapts at inference time with TENT (implemented from scratch).
 
-`+18–27pp` accuracy recovered under domain shift
+**+18 to 27 pp** accuracy recovered under drift
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[RankLab](https://github.com/Girishmanne6/RankLab)** &nbsp;`RecSys` `LightGCN` `Python`
+**[RankLab](https://github.com/Girishmanne6/RankLab)**<br/>
+<sub>`LightGCN` `RecSys` `Docker`</sub>
 
-LightGCN + contrastive regularization on 50K-user EB-NeRD. A/B dashboard tracking Recall, NDCG, and diversity simultaneously.
+News recommendation lab on the 50K-user EB-NeRD dataset. LightGCN with contrastive regularization, metrics written from scratch, and a dashboard comparing Recall, NDCG, and diversity across models.
 
 </td>
 <td width="50%" valign="top">
 
-**[shift-left-compliance](https://github.com/Girishmanne6/shift-left-compliance)** &nbsp;`OPA` `DevSecOps`
+**[Compliance Agent](https://github.com/Girishmanne6/compliance-agent)**<br/>
+<sub>`LLM` `GitHub Actions` `FastAPI`</sub>
 
-Policy-as-code: compliance gates embedded in CI — violations caught before they reach production.
+Shift-left compliance gate. Scans every pull request for policy violations, blocks the merge, and posts a line-level violation table with an AI-written summary.
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>&nbsp;<b>more projects</b></summary>
-
+<summary><b>More projects</b></summary>
 <br/>
 
-| project | what it does |
-|---------|-------------|
-| [Truthseeker](https://github.com/Girishmanne6/Truthseeker) | multimodal deepfake detection — visual + audio fusion |
-| [compliance-agent](https://github.com/Girishmanne6/compliance-agent) | LLM agent for regulatory document review |
-| [Sukhibava-Medical-Chatbot](https://github.com/Girishmanne6/Sukhibava-Medical-Chatbot) | domain-specific medical Q&A agent |
-| [tomasulo-simulator](https://github.com/Girishmanne6/tomasulo-simulator) | out-of-order CPU execution simulator |
-| [Curbrules](https://github.com/Girishmanne6/Curbrules) | Cursor AI rules configuration |
+| Project | What it does |
+|---|---|
+| [CurbRules](https://github.com/Girishmanne6/Curbrules) | Parking legality engine: rule DSL + PostGIS + map UI that returns LEGAL / ILLEGAL / CAUTION with explanations |
+| [shift-left-compliance](https://github.com/Girishmanne6/shift-left-compliance) | Policy-as-code rules (OPA + Semgrep) for catching compliance issues in CI |
+| [Truthseeker](https://github.com/Girishmanne6/Truthseeker) | Multimodal deepfake detection fusing visual and audio signals |
+| [Sukhibava Medical Chatbot](https://github.com/Girishmanne6/Sukhibava-Medical-Chatbot) | Domain-specific medical Q&A assistant |
+| [Tomasulo Simulator](https://github.com/Girishmanne6/tomasulo-simulator) | Out-of-order CPU execution simulator |
 
 </details>
 
 <br/>
 
-## 🛠 stack
+### 🛠 Tech I use
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,react,nextjs,ts,git&theme=dark" alt="tech stack"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0033?style=flat-square&logo=pytorch&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-1a0033?style=flat-square&logo=chainlink&logoColor=a78bfa)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a0033?style=flat-square&logo=fastapi&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-1a0033?style=flat-square&logo=docker&logoColor=a78bfa)
-![AWS](https://img.shields.io/badge/AWS-1a0033?style=flat-square&logo=amazonaws&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/Next.js-1a0033?style=flat-square&logo=nextdotjs&logoColor=a78bfa)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0033?style=flat-square&logo=typescript&logoColor=a78bfa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0033?style=flat-square&logo=postgresql&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-1a0033?style=flat-square&logo=git&logoColor=a78bfa)
-
-</div>
+<p align="center"><sub>also: LangGraph · LangChain · ChromaDB · ONNX Runtime · OPA · Redis</sub></p>
 
 <br/>
 
-## 📊 activity
+### 🏆 Highlights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Girishmanne6&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed&bg_color=00000000" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishmanne6&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=00000000&langs_count=6" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Girishmanne6&theme=transparent&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6b7280&currStreakNum=e2e8f0&sideNums=e2e8f0" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Girishmanne6&bg_color=000000&color=7c3aed&line=4c1d95&point=a78bfa&area=true&area_color=1a0033&hide_border=true&radius=6" width="96%"/>
-
-</div>
+- 📖 Book chapter on deep learning-based landslide detection, **Springer** (accepted, forthcoming)
+- 🎤 Presented at **ICON-DEEPCOM 2025**
+- 🥈 **Google Hackathon** finalist, 2nd of 50+ teams (AI LawBot)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050510,40:0d0520,70:1a0040,100:2d0060&section=footer&text=systems%20that%20think%20in%20layers&fontSize=14&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%"/>
+</div>
